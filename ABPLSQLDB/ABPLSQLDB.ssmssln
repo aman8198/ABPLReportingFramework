@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ABPLSQLDB", "ABPLSQLDB\ABPLSQLDB.ssmssqlproj", "{28F75AB7-00B3-4B45-9AB7-3840D249BE96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28F75AB7-00B3-4B45-9AB7-3840D249BE96}.Default|Default.ActiveCfg = Default
+		{EEA7519D-E42D-4903-B6E9-22C2F21FCCB0}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A563CAB-5363-4AA1-B71F-489195474A7C}
+	EndGlobalSection
+EndGlobal
